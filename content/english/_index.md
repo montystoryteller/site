@@ -7,7 +7,7 @@ banner:
   buttons:
     - enable: true
       label: "Buy Tickets for Faversham Fringe show — 12/10/25"
-      link: "https://www.ticketsource.co.uk/booking/select/qeljevjjbekp"
+      link: "https://www.ticketsource.co.uk/whats-on/faversham/the-alexander-centre-charter-room/unforeseen-consequences/2025-10-12/13:00/t-yarekrv"
     - enable: true
       label: "Buy Tickets for St Lawrence, IW, 'Protest Tales' show — 22/11/25"
       link: "https://www.stlawrencevillagehall.uk/events/protest-days-rebellion-nights"
