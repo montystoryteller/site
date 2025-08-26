@@ -7,6 +7,15 @@ description: "This is meta description"
 
 # Features
 features:
+
+  - title: "Turn taking stories'n'songs with The AnyWhens] — The Star, Ryde —  Thurs 25th September 2025, 7pm"
+    image: "/images/anywhens_star.png"
+    content: ""
+    bulletpoints:
+      - "The Star Ale and Coffee House, Ryde, IW"
+      - "Thursday 25th September 2025, from 7pm"
+      - "Turn taking traditional tales and folk songs with Genn'n'Sue, aka *The Anywhens*"
+
   - title: "Unforeseen Consequences — Faversham Fringe — Sunday 12/10/25, 1pm[solo show]"
     image: "/images/TH_GrahamBrown_face-1200x800.jpg"
     content: ""
