@@ -5,7 +5,7 @@ meta_title: ""
 # meta description
 description: "This is meta description"
 # save as draft
-draft: true
+draft: false
 ---
 
 {{< toc >}}
@@ -152,6 +152,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ### Accordions
 
+{{< accordion "Why should you need to do this?" >}}
+
+- Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- Lorem ipsum dolor sit amet consectetur adipisicing elit.
+- Lorem ipsum dolor sit amet consectetur
+
+{{< /accordion >}}
 
 {{< accordion "How can I adjust Horizontal centering" >}}
 

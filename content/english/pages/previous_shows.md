@@ -40,6 +40,7 @@ draft: false
 | 2023-10-26 | 'Tis Tales | Babushka Books, Shanklin | Sinister and Strange |
 | 2023-10-05 | Solo | Babushka Books, Shanklin | And the Girl Played On |
 | 2024-08-06 | Solo / (others) | Chale Show, Chale | (misc. tales) |
+| 2023-11-20 | Solo / (others) | Spithead Cafe, Lake | (sea tales) |
 | 2023-07-28 | 'Tis Tales | Ventnor Arts Club, Ventnor Fringe |Here Be Giants |
 | 2023-07-23 | Solo | Boniface Studios, Ventnor Fringe | Verging on Nonsense |
 | 2023-05-11 | Solo | Somewhen Storytelling Festival, Havenstreet | (traditional tales) |

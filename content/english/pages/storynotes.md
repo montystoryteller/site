@@ -6,11 +6,44 @@ meta_title: ""
 description: "This is meta description"
 # save as draft
 draft: false
+
+features:
+  - title: "*Island Tales* series"
+    image: "/images/storynotes/storynotes_island_initial2.jpg"
+    content: ""
+    bulletpoints:
+      - "Inspired by Abraham Elder's *Tales and legends of the Isle of Wight*"
+      - "Original version + my own retelling + historical and contextual notes"
+      - "__Series includes:__ *A Legend of Godshill*, *A Legend of Puckaster Cove*"
+
+  - title: "*Protest Tales* series"
+    image: "/images/storynotes/storynotes_protest_initial3.jpg"
+    content: ""
+    bulletpoints:
+      - "Research storynotes to support of protest tales"
+      - "Collections of original newspaper reports"
+      - "'Remembered' tales from within living memory"
+      - "__Series includes:__ *The Tale of Benjamin Topham*, *The March of the Blanketeers*, *Folly at Folly Hall*"
+
+  - title: "Online series"
+    image: "/images/TH_GrahamBrown_face-1200x800.jpg"
+    content: "Online collections of raw storynotes / work-in-progress"
+    bulletpoints:
+      - "[*General storytelling notes*](https://psychemedia.github.io/storytelling-notes/preface.html)"
+      - "[*Isle of Wight Storynotes*](https://psychemedia.github.io/island-storynotes/preface.html)"
+      - "[*In Search of Fionn MacCumhaill and the Fianna*](https://psychemedia.github.io/finn-resources/preface.html)"
+      - "[*Middle English Romances*](https://psychemedia.github.io/middle-english-romances/preface.html)"
+      - "[*Winter Tales*](https://psychemedia.github.io/winter-tales/intro.html)"
+      - "[*Classical Greek and Roman Myths*](https://psychemedia.github.io/classical-roman-and-greek-myths/)"
+      - "[*On the Trail of the Sin-Eater*](https://psychemedia.github.io/sin-eater-resources/)"
+      - "[*On the Loss of the Eurydice*](https://psychemedia.github.io/eurydice-resources/)"
+      - "[*Chasing the Ace of Spades*](https://psychemedia.github.io/ace-of-spades-devilish-tales/preface.html)"
+      - "[*Story Notes – Technical Recipes*](https://psychemedia.github.io/storynotes/)"
 ---
 
 ### Storynotes FAQ
 
-*Some quick answers to common questions about stroynotes...*
+*Some quick answers to common questions about storynotes...*
 
 {{< accordion "What are storynotes?" >}}
 

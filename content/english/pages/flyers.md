@@ -10,7 +10,7 @@ draft: false
 
 <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
   <div>
-{{< slider dir="images/flyers_gallery" class="max-w-[300px] ml-0" height="400" width="300" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/flyers_gallery" class="max-w-[300px] ml-0" height="400" width="300" webp="true" command="Fit" reverse="true" option="" zoomable="true" >}}
 </div>
   <div class="prose prose-lg">
     <h2>Flyers and Posters</h2>

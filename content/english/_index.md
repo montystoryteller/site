@@ -27,7 +27,7 @@ features:
     button:
       enable: true
       label: "Buy Tickets for Faversham Fringe show — 12/10/25"
-      link: "https://www.ticketsource.co.uk/booking/select/qeljevjjbekp"
+      link: "https://www.ticketsource.co.uk/whats-on/faversham/the-alexander-centre-charter-room/unforeseen-consequences/2025-10-12/13:00/t-yarekrv"
 
   - title: "Monty + The AnyWhens"
     image: "/images/monty_anywhens_vf25.jpg"
@@ -35,6 +35,7 @@ features:
     bulletpoints:
       - "__Current show:__ *Protest Days, Rebellion Nights: Stories and Songs of the Luddites*"
       - "__Also appearing as:__ *The AnyWhens / Monty Storyteller*, turn taking 10-15 minute sets of folk songs and traditional folk tales"
+      - "__NEXT FREE PUB / BEER/CIDER FESTIVAL SHOW (folk stories'n'songs): The Star, Ryde, Thurs 25th Septemr 2025, 7pm__"
     button:
       enable: true
       label: "Buy Tickets for St Lawrence, IW, 'Protest Tales' show — 22/11/25"

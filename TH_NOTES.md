@@ -7,3 +7,10 @@ Forms: https://un-static.com/how-to/add-hugo-contact-form  50 submissions per mo
 
 
 In params.toml there is a hook for mailchimp?
+
+
+# Clean resources
+
+hugo mod clean
+hugo mod tidy
+
