@@ -14,7 +14,7 @@ banner:
   buttons:
     - enable: true
       label: "Contact"
-      link: "/contact"
+      link: "./contact"
 
 
 
