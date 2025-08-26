@@ -49,7 +49,7 @@ features:
       - "As told at: *Bearded Theory, Wickham Festival, Beautiful Days, Ventnor Fringe*"
       - "Festival pop-up venues: *The Magic Teapot, The Tiny Tea Tent, The Something Else Tea Tent*"
       - "Fringe / local festival pop-ups: *Two Cooks (Ventnor), The Met (Ventnor)*"
-      - "Open to telling alongside improvised musical accompaniament (esp. guitar, fiddle/violin, piano)"
+      - "Open to telling alongside improvised musical accompaniment (esp. guitar, fiddle/violin, piano)"
     button:
       enable: false
       label: ""

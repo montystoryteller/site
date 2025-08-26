@@ -18,7 +18,7 @@ In February 2023, Monty started performing his own solo shows, telling primarily
 
 2023 was also the year in which Monty was involved in bidding for and co-leading the Arts Council and National Lottery funded *Somewhen Storytelling project*, which promoted the *Somewhen Storytelling Festival* and a range of training and storytelling development opportunities across the Isle of Wight. Although *Somewhen Storytelling* as an initiative is currnetly on hold, its legacy and inspiration continues to grow to this day.
 
-In 2024, Monty teamed up with harpist Theresa Ellis to form *Stories'n'Harp*, later also accompanied by singer Jenni Charity. The performances concentrated mediaeval on old British and Irish tales with harp and song accompaniament, and included shows at Monkton Arts, Ryde, and Ventnor Fringe.
+In 2024, Monty teamed up with harpist Theresa Ellis to form *Stories'n'Harp*, later also accompanied by singer Jenni Charity. The performances concentrated mediaeval on old British and Irish tales with harp and song accompaniment, and included shows at Monkton Arts, Ryde, and Ventnor Fringe.
 
 In 2025, he joined forces with folk duo Glenn Koppany and Sue Cain, aka *The AnyWhens*, initially taking 15 mins song'n'story turns at *The Star Cider'n'Sausage festival* in Ryde, before putting together their first show, *"Protest Days, Rebellion Nights"*, which quickly sold out at Ventnor Fringe 2025.
 
