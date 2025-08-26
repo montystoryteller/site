@@ -14,7 +14,7 @@ draft: false
 </div>
   <div class="prose prose-lg">
     <h2>Flyers and Posters</h2>
-    <p>From the very beginning — from the very first shows I did as part of 'Tis Tales — flyers have been a primary means of advertising our shows (this dates bak to my days following and promoting bands).</p>
+    <p>From the very beginning — from the very first shows I did as part of 'Tis Tales — flyers have been a primary means of advertising our shows (this dates back to my days following and promoting bands).</p>
     <p>I did the early 'Tis Tales flyers, before Holly took them on (it's easy to spot when we made the change!), but I continue to do my own flyers...</p>
   </div>
 </div>

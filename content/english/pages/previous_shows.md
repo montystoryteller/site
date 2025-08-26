@@ -10,7 +10,7 @@ draft: false
 
 # Previous Shows
 
-*The following listing details booked and/or ticketed events I have been involed with. Folk nights, open mic events, story circles &c. are too numerous to list...Informal `Tea Tales` pop-up sessions in festival tea tents are also ommitted.*
+*The following listing details booked and/or ticketed events I have been involved with. Folk nights, open mic events, story circles &c. are too numerous to list... Informal `Tea Tales` pop-up sessions in festival tea tents are also ommitted.*
 
 | Date |  Billing | Venue    |     Show       |
 | -----|:--------:| :-----------: | ----: |
