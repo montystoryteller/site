@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Storytelling", "Monty Storyteller", "Tony Hirst"]
-description = "Monty Stroyteller (Tony Hirst) website - shows, bookings, performances, of traditional storytelling"
+description = "Monty Storyteller (Tony Hirst) website - shows, bookings, performances, of traditional storytelling"
 author = "Tony Hirst"
 image = "images/montystoryteller_website_screenshot.png"
 
